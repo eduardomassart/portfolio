@@ -2,7 +2,7 @@
 
 Olá, Bem vindo ao meu projeto de portfólio.
 
-![image](https://portfolio-eduardomassart.vercel.app)
+![image](https://portfolio-git-main-eduardomassart.vercel.app)
 
 ## Ferramentas utilizadas:
 
