@@ -81,7 +81,7 @@ body {
     flex-direction: column;
     align-items: center;
     justify-content: space-between;
-    gap: 16px;
+    gap: 25px;
 }
 
 .apresentacao__conteudo__botoes__titulo {
@@ -166,5 +166,21 @@ body {
 
     .apresentacao__imagem {
         width: 70%;
+    }
+}
+
+@media (max-width: 610px) {
+    .cabecalho__menu {
+       gap: 30px;
+       justify-content: space-around;
+       text-align: center;
+    }
+
+    .apresentacao__conteudo__titulo {
+        font-size: 1.8rem;
+    }
+
+    .apresentacao__conteudo__texto {
+        font-size: 1rem;
     }
 }
